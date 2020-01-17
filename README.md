@@ -1,5 +1,7 @@
 ### _Cenote-Taker Overview_
 
+### This code is associated with the paper from Tisza et al., "Discovery of several thousand highly diverse circular DNA viruses". eLife, 2020. http://dx.doi.org/10.7554/eLife.51971
+
 ***** Before attempting set up Cenote-Taker, know that the easiest way to use it is through CyVerse: http://www.cyverse.org/discovery-environment. There you can use Cenote-Taker for free and without knowledge of command-line interface while leveraging a high performance computing cluster. The code here will require some modifications to port it to your server. If you want to set it up, please see the comments in the scripts denoted with a triple hash (###) regarding dependencies, etc.  *****
 
 ![alt text](https://github.com/mtisza1/Cenote-Taker/blob/master/cenote_schematicArtboard%201.png)
